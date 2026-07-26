@@ -1,0 +1,10 @@
+streamlit
+pandas
+folium
+streamlit-folium
+plotly
+streamlit-plotly-events
+numpy
+openpyxl
+streamlit
+datetime
