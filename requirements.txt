@@ -10,3 +10,5 @@ streamlit
 datetime
 statsmodels
 Jinja2
+statsmodels
+matplotlib
